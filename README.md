@@ -1,0 +1,1 @@
+A repository for pihole blocklists parents might find useful
